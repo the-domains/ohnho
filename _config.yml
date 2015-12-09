@@ -1,7 +1,7 @@
 name: ohnho
 favicon: null
 layout_spectrum: 0.03692420176230371
-typography_spectrum: 0.7129585084039718
+typography_spectrum: 0.24984
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.7759769419208169
-  lightness: 0.5069750072434545
-  saturation: 0.1388621141668409
-  rhythmicContrast: 0.4384245425462723
+  brandStrength: 0.75
+  lightness: 0.0625
+  saturation: 0.5625
+  rhythmicContrast: 0
 purpose: []
